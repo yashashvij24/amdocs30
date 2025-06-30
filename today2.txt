@@ -1,3 +1,5 @@
 Happy Morning
 Lovely Mornig
 OO########  " Deleted"
+Git fetch remotebranch
+Git fetch remoteorigin submaster
